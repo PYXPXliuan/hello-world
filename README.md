@@ -1,4 +1,4 @@
-# hellow-world
+# hello-world
 just a try for the guide
 
 Step1 : create a new Repository
