@@ -20,3 +20,16 @@ now you are in branch "readme-edits" or you can do the 5
 7. In the editor, write a bit about yourself.
 8. Write a commit message that describes your changes.
 9. Click Commit changes button.
+
+Step3 : put the change into "master"
+
+1 .Click the  Pull Request tab, then from the Pull Request page, click the green New pull request button.	pr-tab
+2. In the Example Comparisons box, select the branch you made, readme-edits, to compare with master (the original).	branch
+3. Look over your changes in the diffs on the Compare page, make sure they’re what you want to submit.	diff
+4. When you’re satisfied that these are the changes you want to submit, click the big green Create Pull Request button.	create-pull
+5. Give your pull request a title and write a brief description of your changes.	pr-form
+6. When you’re done with your message, click Create pull request!
+
+7. Click the green Merge pull request button to merge the changes into master.
+8. Click Confirm merge.
+9. Go ahead and delete the branch, since its changes have been incorporated, with the Delete branch button in the purple box.
